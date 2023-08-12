@@ -1,5 +1,4 @@
 
-
 //Задача №1
 zadacha(1);
 let z1 = [5, 4, 8, 16, 10, 1, 12];
@@ -8,11 +7,6 @@ for (let i = 0; i < z1.length; i++) {
     sum1 += z1[i] ** 2;
 }
 console.log(sum1);
-
-
-
-
-
 
 //Задача №2
 zadacha(2);
